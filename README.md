@@ -11,11 +11,29 @@ the edge the format is built on.
 
 ## Install
 
-```bash
-/plugin install remotion-hardcut
+```
+/plugin marketplace add nett0eth/remotion-hardcut
 ```
 
-Or copy the folder into `~/.claude/plugins/` and restart Claude Code.
+```
+/plugin install remotion-hardcut@remotion-hardcut
+```
+
+The repo is its own marketplace, so `add` registers it and `install` pulls the plugin from
+the same place. Restart Claude Code afterwards so the commands and skills load.
+
+To update later, `/plugin marketplace update remotion-hardcut`.
+
+<details>
+<summary>Without the marketplace</summary>
+
+Clone the repo into your plugins directory and restart:
+
+```bash
+git clone https://github.com/nett0eth/remotion-hardcut.git ~/.claude/plugins/remotion-hardcut
+```
+
+</details>
 
 ## Commands
 

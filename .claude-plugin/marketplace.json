@@ -1,0 +1,28 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "remotion-hardcut",
+  "description": "One Remotion video template, done properly: hard cuts, kinetic typography, a typing terminal, and ElevenLabs narration",
+  "owner": {
+    "name": "nett0eth"
+  },
+  "plugins": [
+    {
+      "name": "remotion-hardcut",
+      "description": "Brief to rendered MP4 in one video format: hard cuts, giant kinetic type, a terminal that types real commands, audio-reactive waveforms, and ElevenLabs narration with an emotion preset per objective. Ships deterministic seek adapters for GSAP, Anime.js, Motion and Lottie.",
+      "author": {
+        "name": "nett0eth"
+      },
+      "source": "./",
+      "category": "development",
+      "keywords": [
+        "remotion",
+        "video",
+        "motion-design",
+        "kinetic-typography",
+        "elevenlabs"
+      ],
+      "homepage": "https://github.com/nett0eth/remotion-hardcut",
+      "license": "MIT"
+    }
+  ]
+}
