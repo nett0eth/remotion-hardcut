@@ -9,6 +9,11 @@ objective. Brief in, rendered MP4 out.
 The name is the rule: `<Series>`, never `<TransitionSeries>`. A crossfade softens exactly
 the edge the format is built on.
 
+![Preview: hard cuts, kinetic type and a typing terminal, rendered by this plugin](media/preview.gif)
+
+*6s clip from the plugin's own intro, rendered by itself. GitHub strips `<video>` tags from
+READMEs, so this is a GIF rather than a native player — the full narrated cut is 59s.*
+
 ## Install
 
 ```
