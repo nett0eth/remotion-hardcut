@@ -1,0 +1,8 @@
+# Normalise to LF in the repo so the project is identical on macOS, Linux and
+# Windows checkouts. Without this, Windows commits CRLF and every diff on a
+# Mac shows the whole file as changed.
+* text=auto eol=lf
+
+*.png binary
+*.mp3 binary
+*.mp4 binary

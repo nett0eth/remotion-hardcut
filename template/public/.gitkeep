@@ -1,0 +1,2 @@
+Put images, video, audio, Lottie JSON and caption JSON here.
+Reference them with staticFile("name.ext") — never with a relative import.

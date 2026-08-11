@@ -1,0 +1,16 @@
+{
+  "name": "remotion-hardcut",
+  "version": "1.0.0",
+  "description": "One video template, done properly: hard cuts, giant kinetic type, a terminal that types, and ElevenLabs narration with an emotion preset per objective. Script in, rendered MP4 out.",
+  "author": {
+    "name": "nett0eth"
+  },
+  "keywords": [
+    "remotion",
+    "video",
+    "motion-design",
+    "promo",
+    "kinetic-typography",
+    "elevenlabs"
+  ]
+}

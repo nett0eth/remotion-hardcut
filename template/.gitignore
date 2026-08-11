@@ -1,0 +1,7 @@
+# This file travels with the template: when the folder is copied to start a new
+# video, the copy needs its own ignores.
+node_modules
+out
+build
+.env
+.DS_Store

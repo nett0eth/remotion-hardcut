@@ -1,0 +1,4 @@
+{
+  "//": "Scopes scripts/ to ESM so `node --strip-types` runs them without the MODULE_TYPELESS_PACKAGE_JSON warning. Kept here rather than at the project root, where \"type\": \"module\" would break remotion.config.ts.",
+  "type": "module"
+}
